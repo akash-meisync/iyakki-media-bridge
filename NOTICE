@@ -1,0 +1,4 @@
+iyakki-media-bridge
+Copyright the IYAKKI contributors. Licensed under the Apache License 2.0 (see LICENSE).
+
+This repository contains no FFmpeg code. The recipe downloads FFmpeg (LGPL-2.1+, https://ffmpeg.org) at the user's request and builds shared libraries from it.
